@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://albertoflj.github.io/FEM-loopstudio-landing-page/)
+- Live Site URL: [Live site](https://www.frontendmentor.io/solutions/loopstudio-landing-page-using-sass-html-and-vanilla-js-BmCDaA0Dv)
 
 ## My process
 
