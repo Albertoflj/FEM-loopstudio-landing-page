@@ -1,3 +1,10 @@
+### Links
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/loopstudio-landing-page-using-sass-html-and-vanilla-js-BmCDaA0Dv)
+- Live Site URL: [Live site](https://albertoflj.github.io/FEM-loopstudio-landing-page/)
+
+
+
 # Frontend Mentor - Loopstudios landing page solution
 
 This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -17,10 +24,6 @@ Users should be able to:
 ![](./screenshot.png)
 
 
-### Links
-
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/loopstudio-landing-page-using-sass-html-and-vanilla-js-BmCDaA0Dv)
-- Live Site URL: [Live site](https://albertoflj.github.io/FEM-loopstudio-landing-page/)
 
 ## My process
 
